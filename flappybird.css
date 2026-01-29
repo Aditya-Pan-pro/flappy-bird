@@ -1,0 +1,19 @@
+#box {
+      width: 10px;
+      height: 10px;
+      background: rgb(233,56,78);
+      position: absolute; /* allows movement */
+      top: 300px;         /* starting vertical position */
+      left: 100px;
+       
+    }
+      .box1 {
+      background-color: lightblue;
+      border: 2px solid black;
+    }
+    .box2 {
+      background-color: lightblue;
+      border: 2px solid black;
+    }
+
+
